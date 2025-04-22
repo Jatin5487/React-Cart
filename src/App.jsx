@@ -48,7 +48,7 @@ function App() {
     <>
       {/* header */}
       <div className="header h-18 px-12  bg-gray-500 text-white flex justify-between items-center">
-        <h1 className="text-4xl font-bold">Cart-Page</h1>
+        <h1 className="text-4xl font-bold text-center">Cart-Page</h1>
         <p className="relative inline-block  py-0.5">
           <FaCartPlus className="text-2xl"/>
           {/* Cart item count */}
